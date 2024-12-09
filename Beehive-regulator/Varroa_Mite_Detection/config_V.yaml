@@ -1,0 +1,10 @@
+path: D:\OpenCV Project\Bee Carrying Pollen.v2i.yolov8\train
+train: images  # train images (relative to 'path')
+val: images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: bee
+  1: pollen
+
+

@@ -1,0 +1,8 @@
+path: \Users\Nadine Mostafa\Desktop\bees vs wasps
+train: \Users\Nadine Mostafa\Desktop\bees vs wasps\train
+val: \Users\Nadine Mostafa\Desktop\bees vs wasps\train
+
+names:
+  0: Bees
+  1: Wasps
+
